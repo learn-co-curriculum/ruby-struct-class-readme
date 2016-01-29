@@ -82,4 +82,4 @@ This pattern of using a struct to handle one specific functionality within a cla
 * [Ruby Docs: Struct](http://www.ruby-doc.org/core-2.1.3/Struct.html)
 * [Steve Klabnik on the Struct Class](http://blog.steveklabnik.com/posts/2012-09-01-random-ruby-tricks--struct-new)
 
-<a href='https://learn.co/lessons/ruby-struct-class-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-struct-class-readme' title='The Struct Class in Ruby'>The Struct Class in Ruby</a> on Learn.co and start learning to code for free.</p>
